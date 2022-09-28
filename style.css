@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela&display=swap');
+
+*{
+  font-family : Varela , Tahoma ;
+  margin : 0px ;
+  padding : 0px ;
+  box-sizing : border-box ;
+}
+.bar{
+  position : absolute ;
+  right : 50px ;
+  top : 10px  ;
+ 
+}
+.none li{
+  display : inline-block ;
+  list-style-type : none ;
+  padding-top : 2px ;
+  padding-right : 15px ;
+}
+li a {
+ text-decoration : none ;
+  color : white ;
+ 
+}
+.main{
+  position : relative ;
+  left : 0px ;
+  font-family : "lucida grande";
+  color : white ;
+  font-size : 250% ;
+  border-bottom : 2px solid grey ;
+}
+.right{
+  background-color : #3b5998 ;
+  position : relative ;
+  left : 20% ;
+  border-radius : 6px ;
+  width : 80% ;
+  border : 2px solid #4267b2 ;
+  border-bottom : 1px solid blue ;
+}
+.second{
+  background-color : #4267b2  ;
+  color : white ;
+  font-size : 28px ;
+  padding : 8px 0px ;
+  border-radius : 6px ;
+}
+.imp{
+  font-weight : bold ;
+  letter-spacing : 2px ;
+  word-spacing : 3px ;
+  padding : 25px 45px 15px 45px ;
+}
+.bol{
+  font-weight : bold ;
+}
+.semi{
+  font-weight : medium ;
+  padding : 5px 45px ;
+}
+.semi2{
+  font-weight : medium ;
+  padding : 15px 45px 15px 45px ;
+}
+.school{
+  text-decoration : none ;
+  color :  #4267b2 ;
+}
+.school:hover{
+  text-decoration-line : underline ;
+}
+.content{
+  background-color : white ;
+  font-weight : bold ;
+}
+.moveboss{
+   position : relative ;
+  left : 45px ;
+}
+.move{
+  position : relative ;
+  left : 65px ;
+  padding : 30px ;
+  
+}
+.move li{
+  list-style-type-color : blue ;
+}
+img{
+  height : 100px ;
+  width : 255px ;
+  position : relative ;
+  top : 235px ;
+}
+form{
+  position : relative ;
+  top : 245px ;
+}
+.container{
+  position : relative ;
+  bottom : 220px ;
+}
+input[type="email"]{
+  padding : 5px ;
+  margin : 5px ;
+  width : 250px ;
+}
+input[type="password"]{
+  padding : 5px ;
+  margin : 5px ;
+  width : 250px ;
+}
+label{
+  font-weight : bold ;
+}
+input[type="button"]{
+  margin : 5px ;
+  padding : 5px ;
+  background-color  : #4267b2; 
+  border : none ;
+  color : white ; 
+  font-size : 15px ;
+}
+label{
+  position : relative ;
+  left : 10px ;
+}
+input[type="submit"]{
+position : relative ;
+left : 410px ;
+background-color : #4267b2 ;
+padding : 5px ;
+  border : none ;
+  font-size : 18px ;
+  color : white ;
+  margin-bottom : 15px ; 
+  margin-right : 10px ;
+}
+.left{
+  position : relative ;
+  top : 40px ;
+}
+.footer a{
+  color :  #4267b2 ;
+  font-weight : bold ;
+  text-decoration : none ;
+  margin : 5px 10px ;
+  position : relative ;
+  right : 100px ;
+  
+}
+.footer{
+  position : relative ;
+  left : 675px ;
+  margin-top : 15px ;
+}
+.footer p{
+  font-weight : bold ;
+  margin-top : 5px ;
+}
